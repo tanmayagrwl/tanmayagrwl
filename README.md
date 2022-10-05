@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tanyagrwl
-- 👀 I’m interested in Fullstack Java and Mern development
+- 👋 Hi, I’m @tanyagrwl (Tanmay Agrawal)
+- 👀 I’m interested in MERNstack development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- mail me tanmayhp78@gmail.com
