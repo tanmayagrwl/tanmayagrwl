@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tanyagrwl (Tanmay Agrawal)
+- 👋 Hi, I’m @tanmayagrwl (Tanmay Agrawal)
 - 👀 I’m interested in MERNstack development
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me- mail me tanmayhp78@gmail.com
 
 <!---
