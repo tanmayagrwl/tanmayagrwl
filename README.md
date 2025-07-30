@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Astro and Remix**
 
-- 👨‍💻 All of my projects are available at [tanmayagrawal.me](https://tanmayagrawal.dev/)
+- 👨‍💻 All of my projects are available at [tanmayagrawal.dev](https://tanmayagrawal.dev/)
 
 - 💬 Ask me about **React.Js, Next.Js, Sveltekit and React Native**
 
 - 📫 How to reach me **agrwl.tanmay@gmail.com**
 
-- 📄 Know about my experiences [cv.tanmayagrawal.me](https://cv.tanmayagrawal.me)
+- 📄 Know about my experiences [cv.tanmayagrawal.dev](https://cv.tanmayagrawal.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
